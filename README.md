@@ -11,7 +11,7 @@ TaskMaster can be used in various situations where task management is essential,
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat]([https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://pixabay.com/illustrations/ai-generated-family-8365787/))
+![Cat]([[https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://pixabay.com/illustrations/ai-generated-family-8365787/)](https://pixabay.com/illustrations/ai-generated-family-8365787/))
 
 This is how you create code examples:
 ```
