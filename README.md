@@ -13,6 +13,8 @@ TaskMaster can be used in various situations where task management is essential,
 ![AI Assistant](![ai-generated-8365787_1280](https://github.com/omerkolsuz/my-new-project/assets/112700914/31a23ae0-5c3e-4b83-8c1e-baaed400bb77))
 
 
+![ai-generated-8365787_1280](https://github.com/omerkolsuz/my-new-project/assets/112700914/72382bbf-81fb-4ed7-8357-5d612d70fc41)
+
 
 This is how you create code examples:
 ```
