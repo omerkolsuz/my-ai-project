@@ -35,3 +35,5 @@ TaskMaster relies on user-provided data, such as task descriptions, deadlines, a
 While TaskMaster provides valuable assistance in task management, it does not solve all challenges related to productivity and time management. Limitations include the need for continuous updates and improvements to enhance accuracy and relevance. Ethical considerations include data privacy and security, as TaskMaster may handle sensitive information related to tasks and schedules.
 ## What next?
 TaskMaster has the potential to grow and evolve into a comprehensive productivity platform with additional features such as automated task prioritization, smart scheduling, and integration with communication tools. To move forward, collaboration with UX/UI designers, software developers, and productivity experts would be valuable in refining and expanding the functionality of TaskMaster.
+
+[Ai Generated Family Personal Assistant royalty-free stock illustration]([https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks](https://pixabay.com/illustrations/ai-generated-family-8365787/)) / [CC BY 2.0]
