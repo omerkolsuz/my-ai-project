@@ -1,7 +1,7 @@
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki.  -->
-# Project Title
-AI-Powered Task Management Assistant
+# AI-Powered Task Management Assistant
+
 ## Summary
 TaskMaster is an AI-powered task management assistant designed to streamline task organization, scheduling, and completion. It helps users efficiently manage their tasks, prioritize work, and stay productive. 
 ## Background
