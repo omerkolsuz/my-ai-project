@@ -10,9 +10,8 @@ Task management is a common challenge faced by individuals and teams across vari
 TaskMaster can be used in various situations where task management is essential, such as project management, personal productivity, and team collaboration. Users can input tasks, set deadlines, assign priorities, and track progress using the TaskMaster platform. The solution is designed to be user-friendly and intuitive, catering to the needs of both individual users and teams.
 
 
-![AI Assistant](![image](https://github.com/omerkolsuz/my-new-project/assets/112700914/bc1c4619-28dd-40a7-8f2b-2c2834b72fcc)
-)
-)
+![AI Assistant](![ai-generated-8365787_1280](https://github.com/omerkolsuz/my-new-project/assets/112700914/31a23ae0-5c3e-4b83-8c1e-baaed400bb77))
+
 
 
 This is how you create code examples:
