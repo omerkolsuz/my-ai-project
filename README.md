@@ -16,18 +16,38 @@ TaskMaster can be used in various situations where task management is essential,
 ![ai-generated-8365787_1280](https://github.com/omerkolsuz/my-new-project/assets/112700914/72382bbf-81fb-4ed7-8357-5d612d70fc41)
 
 
-This is how you create code examples:
+This is a example code:
 ```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-   totPop = sum(pop)
-   totFish = sum(fishers)
-   # write your solution here
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-main()
+dclass Task:
+    def __init__(self, description, deadline, priority):
+        self.description = description
+        self.deadline = deadline
+        self.priority = priority
+
+class TaskMaster:
+    def __init__(self):
+        self.tasks = []
+
+    def add_task(self, task):
+        self.tasks.append(task)
+
+    def list_tasks(self):
+        for index, task in enumerate(self.tasks, start=1):
+            print(f"Task {index}: {task.description} - Deadline: {task.deadline} - Priority: {task.priority}")
+
+# Skapa en instans av TaskMaster
+tm = TaskMaster()
+
+# Lägg till några uppgifter
+task1 = Task("Köp mat", "2024-04-20", "Hög")
+task2 = Task("Ring tandläkaren", "2024-04-18", "Medium")
+
+tm.add_task(task1)
+tm.add_task(task2)
+
+# Lista alla uppgifter
+tm.list_tasks()
+
 ```
 ## Data sources and AI methods
 TaskMaster relies on user-provided data, such as task descriptions, deadlines, and priorities. AI techniques such as natural language processing (NLP) and machine learning algorithms are utilized to analyze and organize tasks effectively. The solution may also integrate with external calendars and productivity tools to enhance functionality.
